@@ -1,1 +1,1 @@
-# leaflet-challenge
+For this challenge I used Leaflet documentation, class activities, and a tutoring session with Kourt Bailey to help complete the homework. In particular, creating the legend was hard for me. I spent most of a tutoring session going over how to create the legend, and would not have been able to complete the homework without help from Kourt Bailey. For the color codes I used a variety of websites to look at hex codes, including this gradient creating website: https://coolors.co/gradient-palette/c621e5-7d7cf9?number=7. 
